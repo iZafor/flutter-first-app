@@ -28,12 +28,11 @@ This app generates random word pairs using the `english_words` package and allow
 
 ## Demo
 
-<video height="800" src="assets/demo.mp4" controls></video>
+<video height="800" src="https://github.com/user-attachments/assets/94865a22-696a-452c-b53a-f40b6b3b2c1b" controls></video>
 
 ## Getting Started
 
 ### Prerequisites
-
 - Flutter SDK
 - Dart SDK
 
